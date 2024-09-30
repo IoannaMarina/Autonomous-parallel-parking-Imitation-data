@@ -18,3 +18,14 @@ This repository contains a dataset of state-action pairs for 20 parallel parking
   - **Orientation**: Binary representation of the ego vehicle’s directional alignment. A value of 1 signifies the ego vehicle facing to the right, and -1 indicates it is oriented to the left. Determines whether the ego vehicle is facing to the left or right concerning the target orientation.
   - **Parallel Distance**: The distance between the ego vehicle and the parking space, considering parallel alignment. Measures how closely the ego vehicle aligns parallel to the parking space.
   - **Vertical Distance**: The distance between the ego vehicle and the parking space, considering vertical alignment. Measures how closely the ego vehicle aligns vertically to the parking space.
+ 
+### Action and State Space Visualization
+
+Below is a visual representation of the vehicle's final state based on various steering and reverse combinations:
+
+![Steer and Reverse Combination Maneuvers](images/Steer_and_reverse_combination_maneuvers.png)
+
+The image below illustrates the positions of the 10 radar sensors on the vehicle:
+
+![Radar Sensor Positions](images/Vehicle_sensors.png)
+
