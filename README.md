@@ -1,5 +1,6 @@
 # Autonomous-parallel-parking-Imitation-data
 
+🔗 **Related Research Paper**: [*Deep Reinforcement Learning and Imitation Learning for Autonomous Parking Simulation*](https://www.mdpi.com/2079-9292/14/10/1992)
 
 This repository contains a dataset of state-action pairs for 20 parallel parking scenarios generated using the CARLA Simulator.
 
